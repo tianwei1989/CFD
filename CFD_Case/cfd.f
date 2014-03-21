@@ -55,6 +55,6 @@ C..   initialization for p_re
               p_re(i, j)=0.00000
           end do
       end do
-C..   work on the codes
+C..   work on the codes .....
 	  end do
       
